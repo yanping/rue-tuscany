@@ -1,0 +1,9 @@
+htdocs
+public
+tmp
+_index
+.DS_Store
+._*
+.*.swp
+*~
+**/._*
