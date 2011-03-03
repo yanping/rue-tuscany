@@ -33,14 +33,33 @@
 
   <div id="header">
 	<h1>
-  <a href="/" title="Rue Tuscany">Train of Thoughts to Tuscany</a>
+  <a href="/" title="Rue Tuscany"><img src="/images/header.jpg" border="0"></a>
 </h1>
+
 <ul class="nav">
-  <!--li><a class="home" href="/">Home</a></li-->
-  <li><a class="past" href="/archives/">Blog</a></li>
-  <li><a class="books" href="/coursework/">Coursework</a></li>
-  <li><a class="contact" href="/contact/">Contact</a></li>
-  <li><a class="feed" href="/atom.xml">Feed<img src="/images/rss2.png" border="0"></a></li>
+  <li><a href="http://twitter.com/jliyi"><img src="/images/twit.jpg" border="0"></a></li>
+  <li><a class="archives" href="/archives">Archives</a></li>
+  <li><a class="feed" href="/atom.xml"><img src="/images/rss.png" border="0"></a></li>
+  <li><a class="coursework" href="/coursework">Coursework</a></li>
+  <li><a class="about" href="/about">About</a></li>
+  <li><a href="http://leecarrot.tumblr.com"><img src="/images/tumblr.jpg" border="0"></a></li>
+  
+ 
+  <li><img src="/images/submenu.png" border="0"></li>
+  <li><a href="http://www.delicious.com/leecarrot">Delicious</a></li>
+  <li><a href="https://github.com/leecarrot">Git</a></li>
+  <li><a href="http://ca.linkedin.com/pub/jennifer-lee/29/bb0/735">LinkedIn</a></li-->
+  
+  <li> 
+  <div id="site-search">
+  <form method="get" action="http://www.google.com/search">
+  <input id="search-text" type="text" id="search" class="ti" name="q" value="" size="19" />
+  <input type="hidden" name="q" value="site:http://www.rue-tuscany.com" />
+  <input type="submit" value="Search" />
+  </form>
+  </div>
+  </li>
+
 </ul>
 
 </div>
@@ -49,15 +68,13 @@
 	
   <h1 class="emphnext">First Post</h1>
 
-<p>It was nice learning about <a href='http://github.com/blog/272-github-pages'>github pages</a> and <a href='http://wiki.github.com/mojombo/jekyll'>Jekyll</a>. I&#8217;m still not quite done, but at least we have the basics for now. The <a href='http://daringfireball.net/projects/markdown/'>Markdown</a> language seems to be a very logical way for writing posts. It is wonderful in a way that it allows us to focus better on the content.</p>
+<p>It was nice learning about <a href='http://github.com/blog/272-github-pages'>github pages</a> and <a href='http://wiki.github.com/mojombo/jekyll'>Jekyll</a>. I&#8217;m still not quite done, but at least we have the basics for now. I have in mind several features to implement, and I hope to tweak the borrowed design further in order to reflect myself better as soon as I get time. The <a href='http://daringfireball.net/projects/markdown/'>Markdown</a> language seems to be a very logical way for writing posts. It is wonderful in a way that it allows us to focus better on the content.</p>
 
 <p>During the process, I tested out this blog with a few different browsers: Firefox, Internet Explorer (IE) 8, Chrome, and Opera. Getting it to work with Firefox was not so straightforward. For example, how could a Firefox browser possibly give us an IE 6 warning about missing plugin while the browser is obviously not IE. It was only later that I figured out that it had something to do with the default layout. Including the Google Analytic codes eliminated the warning. I still don&#8217;t understand because the error message was kind of misleading. I was relieved that it did not take me too long to narrow down to this. It usually takes me more time on similar issues.</p>
 
-<p>I initially wanted to host the blog on Github pages for free. But with only a 0.3GB storage, I&#8217;m afraid it won&#8217;t last long to accomadate my writing and files overtime. I also thought it would be nice to give a more personalized home to this website. So I registered for a web hosting, but was initially confused by thinking that it included domain name. Fortunately, the forum gave enough information to realize that a domain registrar was still missing (ended up paying for both. But it is not much and only yearly for the domain name). Once the nameservers were updated to point to HostingRails DNS servers from a domain I bought from GoDaddy, the website was up in a few hours. It is not easy to choose a domain name when my first and last name is such a common name. I wanted something simple and easy to remember, so I went for Rosebery.ca. I don&#8217;t know if this is a good name. Let&#8217;s use it for a year, and see if I really need a better name.</p>
-
 <p>This command: jekyll &#8211;server &#8211;auto &#8211;pygments, is really handy to compile everything locally from the terminal, and we get an updated site (posts, layouts). The last step will be to upload all the files that have been turned into HTML to the web server. This can be done with Github or rsync.</p>
 
-<p>To sum up, I was very excited to learn about Jekyll. It is like a small project that I can keep working on even though I encountered some difficulty at first. I wish I had the same enthusiasm for things that I&#8217;m supposed to put my energy into. More to come soon :-).</p>
+<p>Despite the limited time to really understand and take away lessons from Jekyll and Github, I was very excited spending time with them. It is like a small project that I can keep working on even though I encountered some difficulty at first. I wish I had the same enthusiasm for things that I&#8217;m supposed to put my energy into. More to come soon :-).</p>
 
 <p><img src='/images/cup.png' alt='alt hope' /></p>
 
@@ -88,52 +105,23 @@
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 
-<!--div id="Menu">
-   <a href="/">Home</a><br><br>
-   <a href="/archives">Blog</a><br><br>
-   <a href="/research">Course Work</a><br><br>
-   <a href="/contact">Contact</a><br><br>
-   <a href="/atom.xml">Feed<img src="/images/rss2.png" border="0"></a><br><br-->
-
-<!--Use of this code assumes agreement with the Google Custom Search Terms of Service. -->
-<!-- The terms of service are available at http://www.google.com/cse/docs/tos.html -->
-<!--form name="cse" id="searchbox_demo" action="http://www.google.com/cse">
-  <input type="hidden" name="cref" value="" />
-  <input type="hidden" name="ie" value="utf-8" />
-  <input type="hidden" name="hl" value="" />
-  <input name="q" type="text" size="12" />
-  <input type="submit" name="sa" value="Search" />
-</form>
-<script type="text/javascript" src="http://www.google.com/cse/tools/onthefly?form=searchbox_demo&lang="></script> 
-</div-->
-  
   <div id="footer">
 	<address>
 		<span class="copyright">
-			Design by <a href="http://mark.reid.name"><font color="#5E174E">Mark Reid</font></a>; Content by <a href="/"><font color="#5E174E">Jennifer Lee</font></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			Design by <a href="http://mark.reid.name"><font color="#5E174E">Mark Reid</font></a> | Modified by <a href="/"><font color="#5E174E">Jennifer Lee</font></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			<!--(<a rel="licence" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Some rights reserved</a>)-->
 			<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank"> <img src="/images/cc.png" border="0"> </a>
 			
 		</span>
 		<span class="engine">
 			Powered by 
-			<a href="http://github.com/mreid/jekyll/" title="A static, minimalist CMS"><font color="#5E174E">Jekyll</font></a> and
+			<a href="http://github.com/mreid/jekyll/" title="A static, minimalist CMS"><font color="#5E174E">Jekyll</font></a>, 
+			<a href="http://disqus.com/" title="Discover your community"><font color="#5E174E">Disqus</font></a> and 
                         <a href="http://heroku.com/" title="Ruby Cloud Platform as a Service"><font color="#5E174E">Heroku</font></a>
 		</span>
 	</address>
   </div>
 </div>
-
-
-<!-- Sidebar text >
- <ul class="fixedmenu">
-                                
-      <li><a href="/">Home</a></li>
-      <li><a href="/archives">Blog</a></li>
-      <li><a href="/books">Books</a></li>
-      <li><a href="/contact">Contact</a></li>
-      <li><a href="/atom.xml">Feed<img src="/images/rss2.png" border="0"></a></li>
- </ul-->
 
 <!-- Google analytics -->
 <script type="text/javascript">

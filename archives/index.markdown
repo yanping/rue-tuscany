@@ -1,5 +1,5 @@
 ---
-layout  : name2
+layout  : name
 title   : Blog
 section : Past
 feed    : /atom.xml

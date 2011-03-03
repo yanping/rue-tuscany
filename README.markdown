@@ -1,6 +1,6 @@
-# rosebery
+# Rue Tuscany
 
-This is the data for [my blog](http://miffytrail.com). It is generated into static content using the wonderful [Jekyll](http://github.com/mojombo/jekyll) project. Jekyll is a static site generator created by  [Tom Preston-Werner](http://tom.preston-werner.com/).
+This is the data for [my webpage](http://www.rue-tuscany.com). It is generated into static content using the wonderful [Jekyll](http://github.com/mojombo/jekyll) project. Jekyll is a static site generator created by  [Tom Preston-Werner](http://tom.preston-werner.com/).
 
 ## License
 

@@ -5,6 +5,8 @@ lsi         : false
 pygments    : true
 permalink   : none
 markdown    : maruku
+paginate    : true
+paginate    : 4
 
 maruku:
     use_divs: true

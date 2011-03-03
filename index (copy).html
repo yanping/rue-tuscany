@@ -1,0 +1,18 @@
+---
+layout  : name
+title   : Home
+section : Home
+feed    : /atom.xml
+---
+
+{% for post in site.posts limit:4 %}
+  <div class="post">
+    <h1>[{{ post.date | date: "%B %d, %Y" }}] <a href="{{ post.url }}">{{ post.title }}</a></h1>
+    <p>
+      {{ post.content | truncate: 450 }}
+    </p>
+    <a id="more" href="{{ post.url }}">Read More &raquo;</a>
+    <p></p>
+  </div>
+{% endfor %}
+

@@ -21,11 +21,9 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,t
 /* @end */
 
 body {
-	font-family: Palatino, georgia, "times new roman", serif;
-	/*background-color: whitesmoke;*/
-        background-image: url(/images/vanillapod.jpg);
-	/*background-position: center -18em;
-	background-repeat: repeat-x; */
+        font-family: Palatino, georgia, 'Reenie Beanie', "Helvetica Neue", Helvetica, Arial, sans-serif;
+        background-image: url(/images/bgtile.png); 
+        color: #333333;
 }
 
 /* Hack via Joel Spolsky to make image rescaling nicer in IE */
@@ -35,8 +33,8 @@ img { -ms-interpolation-mode:bicubic; }
 html>body { font-size:16px; }
 p { margin: 0 0 1.5em 0; text-align: justify; }
 
-a { text-decoration: none; color: #339; }
-a:hover { text-decoration: underline; color: #33f; }
+a { text-decoration: none; color: purple; }
+a:hover { text-decoration: underline; color: purple; }
 a.pdf:before { 
 	margin-right: 1em;
 	content: url(/files/css/icon_pdf.gif); }
@@ -48,7 +46,8 @@ h1,h2,h3,h4 {
 	clear: left; 	
 	font-family: 'lucida grande', sans-serif; 
 }
-h1 { margin-bottom: 1em; }
+h1 { margin-bottom: 1em; 
+}
 h2 {
 	font-size: 100%;
 	line-height: 1.5em;
@@ -67,7 +66,7 @@ sup { line-height: 1ex; }
 
 #site {
 	max-width: 56em;
-	margin: 1.5em auto 3em auto;
+	margin: auto auto 3em auto;
 	line-height:1.5em;
 }
 
@@ -204,26 +203,26 @@ ul.compact li a {
 	position: relative;
 	font-variant: small-caps;
 	line-height: 1em;
-	margin-top: .5em;
+	margin-top: 0;
 	margin-bottom: 0;
 }
 #header h1 {
 	font-family: Palatino, georgia, "times new roman", serif;
 	margin-bottom: 0;
-	line-height: 0.9em;
+	line-height: 1.5em;
 	display: block;
 	font-weight: normal;
 }
 
 #header ul {
 	position: absolute;
-	top: 0;
+	top: 0.5em;
 	right: 0;
 	font-size: 100%;
-	line-height: 1.6em;
+	line-height: 2em;
 	display: block;
 	margin: 0;
-	width: 50%;
+	width: 32%;
 	text-align: right;
 }
 #header ul li { display: inline; }
@@ -232,8 +231,8 @@ ul.compact li a {
 	display: inline;
 }
 #header ul li a:hover {
-	color: blue;
-	border-bottom: 2px solid blue;
+	color: purple;
+	border-bottom: 1px solid purple;
 }
 #header .byline {
 	color: silver;

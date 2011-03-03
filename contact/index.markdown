@@ -1,5 +1,5 @@
 ---
-layout  : name2
+layout  : name
 title   : Contact
 section : Contact
 feed    : /atom.xml
