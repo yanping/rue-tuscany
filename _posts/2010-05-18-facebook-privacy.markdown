@@ -3,6 +3,8 @@ layout: post
 title: Love and Hate Relationship with Facebook
 location: Ottawa, Canada
 excerpt: Perhaps shallow friendships are better than none?
+categories:
+- privacy
 ---
 
 I did not persist until the end. Instead of deleting my Facebook account, I deactivated it after further consideration. Many people have come to rely on Facebook's messaging system as a practical way for easy and fast communications. However, it is not without any downside with regards to the emotional effect it brought along. There is something really wrong with excessive use that has fundamentally twisted our hopes and reality. There are many more important things awaiting us to do in the real world. I didn't regret I gave myself a break from Facebook, and I remind myself that I need not spend too much time on it if I ever reactivate it again, which I just did.

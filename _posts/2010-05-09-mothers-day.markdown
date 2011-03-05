@@ -3,6 +3,8 @@ layout: post
 title: Happy Mother's Day!
 location: Ottawa, Canada
 excerpt: To all the mothers I have known.
+categories:
+- random
 ---
 
 It is now 2.57 am, and I am still figuring out some stuff for Monday. I came across this beautiful doodle from Google. I just realized it was already Mother's Day. It had been cloudy and rainy yesterday. I hope the day will soon brighthen up a bit for this occasion.

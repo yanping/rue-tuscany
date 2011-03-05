@@ -7,7 +7,7 @@ feed    : /atom.xml
 
 About this Site
 ===============
-Thank you for visiting. More information about this site's mechanics or colophon can be found at my [first blog post](/first-post.html), as well as at the [update](/starting-over.html) for changes so far. The header of this site may appear funny :-). I don't have much experience in CCS and web design, but it's always my hope to add a little touch of originality to the adapted layout.
+Thank you for visiting. More information about this site's mechanics or colophon can be found at my [first blog post](/website/first-post.html), as well as at the [update](/website/starting-over.html) for changes so far. The header of this site may appear funny :-). I don't have much experience in CCS and web design, but it's always my hope to add a little touch of originality to the adapted layout.
 
 A Little About Me
 =================

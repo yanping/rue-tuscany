@@ -3,6 +3,8 @@ layout: post
 title: Starting Over
 location: Ottawa, Canada
 excerpt: Inactivity, domain and hosting changes after a year.
+categories:
+- website
 ---
 
 This site used to be hosted on [HostingRails](http://hostingrails.com/), and have since used two different domain names: rosebery.ca, miffytrail.com. The main reason for recent domain name switches was simply because I did not find the name truly resonated with me. I wish I could have used my full name, but that will be utterly impossible, given how many Jennifer Lee(s) are out there... Hence, a blog redesign, and the name 'rue-tuscany' a.k.a Rue Tuscany. I don't know where the thoughts, if managed to be expressed in written form, will lead to. Let's hope better things will come out of it. I have had this writer's block for some time, and have been procrastinating away. On top of things, my grandfather passed away in mid August last year -- and I spent the last six months in Jakarta with on-and-off stomach problems -- part of why you don't see any updates since May 2010. I am trying to break habits by starting to fill out important things to note on my calendar book I received from my grandmother earlier this year. 

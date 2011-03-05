@@ -1,24 +1,6 @@
----
-layout  : name
-title   : Blog
-section : Past
----
+<ul class="posts">
+{% for post in category_posts %} 
 
-<div class="category">
-<span class="cat">
-    <a href="/well-being.html">well-being ({{ site.categories.well-being | size }})</a>
-    <a href="/random.html">random ({{ site.categories.random | size }})</a>     
-    <a href="/website.html">website ({{ site.categories.website | size }})</a>
-    <a href="/privacy.html">privacy ({{ site.categories.privacy | size }})</a>
-    <!--a href="/books.html">books ({{ site.categories.books | size }})</a>
-    <a href="/facts.html">facts ({{ site.categories.facts | size }})</a>
-    <a href="/astrology.html">astrology ({{ site.categories.astrology | size }})</a-->
-</span>
-</div>
-
-This is the complete archive of blog posts at *[Rue Tuscany](/)* in reverse chronological order.
-
-{% for post in site.posts %}
 <div class="section list">
   <h1>{{ post.date | date_to_string }}</h1>
   <p class="line">
@@ -31,7 +13,9 @@ This is the complete archive of blog posts at *[Rue Tuscany](/)* in reverse chro
     {{ post.content | html_truncate }}
   {% endif %}</p>
 </div>
-{% endfor %}
+
+{% endfor %} 
+</ul>
 
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */

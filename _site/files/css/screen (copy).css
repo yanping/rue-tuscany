@@ -336,6 +336,22 @@ p.excerpt { margin: 0; }
 }
 /* @end */
 
+/* @group Category */ 
+.category { 
+	margin-top: 1em; 
+	position: relative;
+}
+.category .cat { 
+	font-size: 87.5%;
+	line-height: 1.5em;
+	display: block; 
+	font-variant: small-caps; 
+	font-style: normal; 
+	position: absolute;
+	right: 0;
+	top: 0;
+/* @end */
+
 /* @group Code */
 pre {
 	margin: 1em 0 1.5em 0;
@@ -422,20 +438,3 @@ div.maruku-equation img.maruku-png { position: relative; top: -0.75em;}
 span.maruku-inline { }
 img.maruku-png { }
 /* @end */
-
-/* @group Category */ 
-.category { 
-        margin-bottom: 3em;
-	position: relative;
-}
-.category .cat { 
-	font-size: 87.5%;
-	line-height: 1.5em;
-	display: block; 
-	font-variant: small-caps; 
-	font-style: normal; 
-	position: absolute;
-	right: 0;
-	top: 0;
-/* @end */
-

@@ -2,17 +2,42 @@
 layout  : name
 title   : Home
 section : Home
-feed    : /atom.xml
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   <div class="post">
     <h1>[{{ post.date | date: "%B %d, %Y" }}] <a href="{{ post.url }}">{{ post.title }}</a></h1>
     <p>
-      {{ post.content | truncate: 450 }}
+      {{ post.content | strip_html | truncatewords: 50 }}
     </p>
-    <a id="more" href="{{ post.url }}">Read More &raquo;</a>
-    <p></p>
+    <a id="more" href="{{ post.url }}">Read the rest of this entry &rarr;</a>
+    
+  <div align="right">Topics: 
+     {% for category in post.categories  %}
+        <a href="/{{ category }}.html"> {{ category }}</a>
+     {% endfor %} 
+  </div>
+  
+  <p></p>
   </div>
 {% endfor %}
 
+<div align="center">
+<strong>
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+      <a href="/">&laquo;</a>
+    {% else %}
+      <a href="/page{{ paginator.previous_page }}">&laquo;</a>
+    {% endif %}
+  {% else %}
+    &laquo;
+  {% endif %}
+</strong>&nbsp;This is the page <strong>{{ paginator.page }}</strong> out of <strong>{{ paginator.total_pages }}</strong>.<strong>&nbsp;
+  {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}/">&raquo;</a>
+  {% else %}
+    &raquo;
+  {% endif %}
+</strong>
+</div>

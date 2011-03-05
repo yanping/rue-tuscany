@@ -3,6 +3,8 @@ layout: post
 title: In Pursuit of Happiness
 location: Ottawa, Canada
 excerpt: Being content and gratitude for simple things in life bring happiness.
+categories:
+- well-being
 ---
 
 I have been thinking of what it means to be really happy. Feeling as if I have been pursuing the so-called happiness relentlessly. My plans are not always carried out with full consideration beforehand, which often makes me feel guilty for failing to adhere to certain norms I set for myself. Just to be happy, I'm always willing to invest in anything within my capabilities whenever deemed appropriate. This includes the monetary route as well, such as buying things and services to meet my curiosity and experimental nature. The later is more for having someone to talk to, or simply for developing a friendship. 

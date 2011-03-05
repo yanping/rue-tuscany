@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="/files/css/atom.css" type="text/css" ?>
-<!-- Thu Mar 03 02:43:52 -0500 2011 -->
+<!-- Fri Mar 04 20:53:59 -0500 2011 -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>Liquid error: private method `gsub' called for nil:NilClass</loc>
-        <lastmod>2011-03-03T02:43:52-05:00</lastmod>
+        <lastmod>2011-03-04T20:53:59-05:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>Liquid error: private method `gsub' called for nil:NilClass/archives/</loc>
-        <lastmod>2011-03-03T02:43:52-05:00</lastmod>
+        <lastmod>2011-03-04T20:53:59-05:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     
     <url>
-        <loc>Liquid error: private method `gsub' called for nil:NilClass/starting-over.html</loc>
+        <loc>Liquid error: private method `gsub' called for nil:NilClass/website/starting-over.html</loc>
         <lastmod>2011-02-28T00:00:00-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>Liquid error: private method `gsub' called for nil:NilClass/facebook-privacy.html</loc>
+        <loc>Liquid error: private method `gsub' called for nil:NilClass/privacy/facebook-privacy.html</loc>
         <lastmod>2010-05-18T00:00:00-04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>Liquid error: private method `gsub' called for nil:NilClass/mothers-day.html</loc>
+        <loc>Liquid error: private method `gsub' called for nil:NilClass/random/mothers-day.html</loc>
         <lastmod>2010-05-09T00:00:00-04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>Liquid error: private method `gsub' called for nil:NilClass/happiness.html</loc>
+        <loc>Liquid error: private method `gsub' called for nil:NilClass/well-being/happiness.html</loc>
         <lastmod>2010-05-04T00:00:00-04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>Liquid error: private method `gsub' called for nil:NilClass/first-post.html</loc>
+        <loc>Liquid error: private method `gsub' called for nil:NilClass/website/first-post.html</loc>
         <lastmod>2010-03-25T00:00:00-04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
