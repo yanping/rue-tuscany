@@ -16,7 +16,8 @@ section : Past
 </span>
 </div>
 
-This is the complete archive of blog posts at *[Rue Tuscany](/)* in reverse chronological order.
+Blog Posts
+==========
 
 {% for post in site.posts %}
 <div class="section list">

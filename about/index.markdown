@@ -7,9 +7,7 @@ feed    : /atom.xml
 
 About this Site
 ===============
-Thank you for visiting. More information about this site's mechanics or colophon can be found at my [first blog post](/website/first-post.html), as well as at the [update](/website/starting-over.html) for changes so far. The header of this site may appear funny :-). I don't have much experience in CCS and web design, but it's always my hope to add a little touch of originality to the adapted layout. The original site template and CCS design credit goes to [Mark Reid] (http://mark.reid.name).
-
-See the source of this blog at [github](https://github.com/leecarrot/rue-tuscany). Below is an example of the workflow. Assume git has been initialized in the working directory with: `$ git init`, and a heroku application has been created by running: `$ heroku create`. [More...](http://devcenter.heroku.com/articles/quickstart) 
+Thank you for visiting. See the source of this blog at [github](https://github.com/leecarrot/rue-tuscany). Below is an example of the workflow. Assume git has been initialized in the working directory with: `$ git init`, and a heroku application has been created by running: `$ heroku create`. [More...](http://devcenter.heroku.com/articles/quickstart) 
 
 	$ cd rue-tuscany
 	$ gedit _posts/2011-02-28-post-title.markdown
@@ -21,6 +19,8 @@ See the source of this blog at [github](https://github.com/leecarrot/rue-tuscany
 	$ heroku open
 
 The second last command basically pushes updates to Heroku after the initial push of Heroku application (first step: `$ git push ... master`). In the above example, both push to Github and Heroku. It's not necessary to push to Github. The push was only meant to share the structure of the code. To test if the site has been hosted properly on Heroku, the last command will open the address of Heroku application. The Heroku application will reflect the actual site.
+
+More information about this site's mechanics or colophon can be found at my [first blog post](/website/first-post.html), as well as at the [update](/website/starting-over.html) for changes so far. The site template is adapted from [Mark Reid] (http://mark.reid.name).
 
 A Little About Me
 =================
