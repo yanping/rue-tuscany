@@ -70,14 +70,27 @@ sup { line-height: 1ex; }
 	line-height:1.5em;
 }
 
-#page, #disqus_thread {
+#page {
 	background: white;
 	padding: 6em 3em 1.5em 3em;
 	border: 1px solid #ccc;
 }
 
 /* More experimental CSS3 features */
-#page, #disqus_thread {
+#page {
+	box-shadow: 2px 2px 8px #aaa;
+	-webkit-box-shadow: 2px 2px 8px #aaa;
+	-moz-box-shadow: 2px 2px 8px #aaa;	
+}
+
+#disqus_thread {
+	background: white;
+	padding: 3em 3em 1.5em 3em;
+	border: 1px solid #ccc;
+}
+
+/* More experimental CSS3 features */
+#disqus_thread {
 	box-shadow: 2px 2px 8px #aaa;
 	-webkit-box-shadow: 2px 2px 8px #aaa;
 	-moz-box-shadow: 2px 2px 8px #aaa;	
