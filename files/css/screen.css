@@ -85,7 +85,7 @@ sup { line-height: 1ex; }
 
 #disqus_thread {
 	background: white;
-	padding: 1em 3em 1.5em 3em;
+	padding: 0 3em 0 3em;
 	border: 1px solid #ccc;
 }
 
@@ -95,6 +95,47 @@ sup { line-height: 1ex; }
 	-webkit-box-shadow: 2px 2px 8px #aaa;
 	-moz-box-shadow: 2px 2px 8px #aaa;	
 }
+
+/* @group Contact */
+#pageb {
+	background: white;
+	padding: 0 3em 0 3em;
+	border: 1px solid #ccc;
+}
+
+#pageb {
+	box-shadow: 2px 2px 8px #aaa;
+	-webkit-box-shadow: 2px 2px 8px #aaa;
+	-moz-box-shadow: 2px 2px 8px #aaa;	
+}
+
+#pageb a {
+	font-variant: small-caps;
+	font-style: normal;
+	color: #77d;
+	text-decoration: none;
+}
+
+#pageb .contact {
+	margin-top: 2em;
+	margin-left: 5em;
+        display: block;
+	position: absolute
+}
+
+#pageb .contactn {
+        margin-top: 2em;
+	margin-left: 24em;
+	display: block;
+	position: absolute;
+}
+
+#pageb .yijing {
+	margin-top: 2em;
+        margin-left: 40em;
+	display: block;
+}
+/* @end */
 
 /* @group FancyFirst */
 .emphnext + p:first-letter, p.emphfirst:first-letter {

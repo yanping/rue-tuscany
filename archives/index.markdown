@@ -1,7 +1,7 @@
 ---
 layout  : name
-title   : Blog
-section : Past
+title   : Archives
+section : Archives
 ---
 
 <div class="category">

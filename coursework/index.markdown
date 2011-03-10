@@ -2,7 +2,6 @@
 layout  : name
 title   : Coursework
 section : Coursework
-feed    : /atom.xml
 ---
 
 Coursework
