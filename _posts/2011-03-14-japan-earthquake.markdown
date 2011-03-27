@@ -48,4 +48,4 @@ Another sign is Wen Qu self Hua Ji at the estate palace, coupled with Wen Chang 
 
 Finally, we can draw connection to the Tsunami from both Tan Lang and Lian Zhen having the water element. Out of 12 domains, the most problematic domains are the travel and health domains that collectively affect the rest of the domains. As seen above, both parents and sibling domains affect the health domain to a big extent. Health and sibling palace subsequently affect the friends palace, depicting a helpless situation. Most of us will think it is useless to do reverse-engineering to the event that has already happened. But we can still gather the signs and use them to help prepare ourselves better for the future.
 
-[^1]: There are great learning materials at Fengshui Forward forum discussion](http://fengshuiforward.com/forum/) and their [ZWDS group](http://www.facebook.com/#!/group.php?gid=128356577191615)
+[^1]: There are great learning materials at [Fengshui Forward forum discussion](http://fengshuiforward.com/forum/) and their [ZWDS group](http://www.facebook.com/#!/group.php?gid=128356577191615)
