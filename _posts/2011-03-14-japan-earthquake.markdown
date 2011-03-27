@@ -19,11 +19,15 @@ For the sake of learning, I have been thinking that we should be able to relate 
 
 ![alt bazi](/images/sendai-bazi.png "Event Bazi") 
 
+**Software credit: [mybazi.com](http://www.mybazi.com/plotchart/4p.php)**
+
 From the above Bazi chart, each pillar has either the heavenly stem countering the earthly branch, or the other way around. From left to right: the Ji earth in Wei counters the Gui water at the heavenly stem, Yi wood counters the earth in Chou, Xin metal counters the Yi wood in Mao. Moreover, there's a repetition (fuyin) between month and year pillar. Although a Fuyin doesn't necessarily denote a bad event, it is obvious how bad it was in this instance. The bazi of the event is also extremely Yin. There is no presence of Yang element at all, even at the hidden stems inside the branches. There is Chou-Wei clash that took place between the hour and day pillar, and both involved the same element Ji, a muddy kind of earth or soil. Mao and Wei goat silent-push the Hai pig to form the wood frame, giving more twigs for the Xin metal to cut. There's a lot of tension in the air with the additional concern of nuclear radiation. In terms of 10 Gods, all the elements in the bazi appear to be unconventional deities. They tend to be sneaky and love to throw suprises... Seven Killings are also dominant in the chart. The nature of the disaster is quick and aggresive. 
 
 Notice the Ren Wu at conception pillar. With water above fire and countering each other, it is a pillar that denotes explosiveness and sudden changes in outcomes. Since there are different schools of Bazi, I shall stop my Bazi perspective here -- unless it's justified to make use of the Wu horse at the conception pillar. If this is indeed the case, we may be able to take harm, destruction, and half bullying punishment into account. But still, we don't know which one will have priority over another. Fire is produced when Wu and Wei combined, and we have seen there's fire everywhere after the event. The Chou-Wu harm along with the Mao-Wu destruction involving the Eating God are telltale sign that the country's performance is affected (in economical sense). In addition to the lost of available properties (indirect wealth), their capacity for generating new wealth will be hindered for a while.
 
 ![alt yijing](/images/hex51.png "Event Hexagram") 
+
+**Software credit: [Benjamin via FiveArts.net](http://fivearts.net)**
 
 Using the Plum Blossom numerology or Mei Hua Yi Su, the time and date of the event is represented by **Hexagram 51, Zhen**. It is an image of thunder above thunder. There are repeated shocks and tremble, which is what an earthquake is all about. It can be seen as a period of anxiousness, followed by the time to reflect and get in touch with the universe and cosmic forces. The changing line at line 6 brings us to relating Hexagram 21: Fire above thunder. When the law of nature is defied, there's payback to enforce the law.
 > The shock is twining, twining, looking around in terror, terror. To set things right: pitfall. The shock does not reach oneself; it reaches one's neighbor, no fault. A marriage brings talk.
