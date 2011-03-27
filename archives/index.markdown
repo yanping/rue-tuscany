@@ -10,9 +10,9 @@ section : Archives
     <a href="/random.html">random ({{ site.categories.random | size }})</a>     
     <a href="/website.html">website ({{ site.categories.website | size }})</a>
     <a href="/privacy.html">privacy ({{ site.categories.privacy | size }})</a>
-    <!--a href="/books.html">books ({{ site.categories.books | size }})</a>
     <a href="/facts.html">facts ({{ site.categories.facts | size }})</a>
-    <a href="/astrology.html">astrology ({{ site.categories.astrology | size }})</a-->
+    <a href="/astrology.html">astrology ({{ site.categories.astrology | size }})</a>
+    <!--a href="/books.html">books ({{ site.categories.books | size }})</a-->
 </span>
 </div>
 

@@ -10,13 +10,13 @@ section : Home
     <p>
       {{ post.content | strip_html | truncatewords: 60 }}
     </p>
-    <a id="more" href="{{ post.url }}">Read the rest of this entry &rarr;</a>
+    <a id="more" href="{{ post.url }}">Read more &rarr;</a>
     
   <div align="right"> 
      {% for category in post.categories  %}
         <a href="/{{ category }}.html"> {{ category }}</a>
-        | <a href="{{ post.url }}#disqus_thread">View Comments</a>
      {% endfor %} 
+	| <a href="{{ post.url }}#disqus_thread">View Comments</a>
   </div>
   
   <p></p>

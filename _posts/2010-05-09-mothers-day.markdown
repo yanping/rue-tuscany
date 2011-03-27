@@ -13,4 +13,6 @@ I heard about Mother's Day from my little cousin just a few days ago, but I forg
 
 I would also like to wish all the mothers in this world, a Happy Mother's Day. Thank you for all the love you have given to us.
 
-![alt google](/images/mothers-day.png "Happy Mother's Day") 
+<div class="image_and_caption">
+  <p><img src="/images/mothers-day.png" alt="mother's day" title="Happy Mother's Day"/></p>
+</div>

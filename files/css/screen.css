@@ -72,7 +72,7 @@ sup { line-height: 1ex; }
 
 #page {
 	background: white;
-	padding: 4.5em 3em 1.5em 3em;
+	padding: 5em 3em 1.5em 3em;
 	border: 1px solid #ccc;
 }
 
@@ -81,6 +81,11 @@ sup { line-height: 1ex; }
 	box-shadow: 2px 2px 8px #aaa;
 	-webkit-box-shadow: 2px 2px 8px #aaa;
 	-moz-box-shadow: 2px 2px 8px #aaa;	
+}
+
+#page .image_and_caption {
+  margin-left: 9em; 
+  margin-bottom: 1em;
 }
 
 #disqus_thread {
@@ -118,21 +123,21 @@ sup { line-height: 1ex; }
 
 #pageb .contact {
 	margin-top: 2em;
-	margin-left: 5em;
+	margin-left: 3em;
         display: block;
 	position: absolute
 }
 
 #pageb .contactn {
         margin-top: 2em;
-	margin-left: 23em;
+	margin-left: 21em;
 	display: block;
 	position: absolute;
 }
 
 #pageb .yijing {
 	margin-top: 2em;
-        margin-left: 40em;
+        margin-left: 38em;
 	display: block;
 }
 /* @end */
@@ -467,7 +472,7 @@ img.maruku-png { }
 
 /* @group Category */ 
 .category { 
-        margin-bottom: 2em;
+        margin-bottom: 2.5em;
 	position: relative;
 }
 .category .cat { 

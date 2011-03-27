@@ -1,0 +1,20 @@
+---
+layout	: post
+title	: Patience
+location: Ottawa, Canada
+excerpt	: A reminder to wait and stop worrying.
+categories:
+- website
+- random
+---
+
+As of last week, I found myself improving minor aspects of this site that have no importance at all. I was simply bored. When I noticed that [bit.ly pro beta](http://bit.ly/pro/products) was free, I became interested to give it a try. I thought it would take at most an hour for the setup and I'd have my custom short url. But I only realized it later that we need to already own the custom short domain - since it's no longer a short domain if I use the subdomain of rue-tuscany. Names I could think of were already taken with the desired tld (other than .com, .org, .net, .info, .me, etc). My first choice was et.sy. It was available, but is considered too short to my disappointment. [Eurodns](www.eurodns.com) and [domai.nr](http://domai.nr) have helped the most in reaching the final decision with [prata.es](http://prata.es) -- [roti prata](http://en.wikipedia.org/wiki/Roti_prata) which I haven't had for years :-).
+
+The setup obviously took more than an hour although the steps were straightforward. It was hard to think clearly of what stopped it from working properly at the beginning. And I told myself it would be wise to give up trying as it's not necessary to use your own short url, especially when the default ones from bit.ly or j.mp can be even shorter than mine. Another consideration was the fact that a domain name purchase typically comes together with the purchase of web hosting. Spending $7 per month for Zerigo DNS upgrade may not be such a good idea when you don't have 10 different domains to manage. It was nice knowing that we can use the default nameservers from the domain registrar, thus eliminating the need for the web hosting. Setting A record to point to the IP address specified by bit.ly was the key. I was happy when I thought I was done, until I realize I still had a parked short custom domain a few days later. No wonder I kept getting a broken link upon shortening my post urls. Removing a bunch of other dns records and leaving only the A record pointed to bit.ly fixed the problem.
+
+<div class="image_and_caption">
+  <p><img src="/images/waiting.jpg" alt="waiting" title="Waiting"/></p>
+  <b>Image credit © <a href="http://www.flickr.com/photos/mrtweedle/">PeterN</a></b>
+</div>
+
+All in all, I can't believe I ended up getting my own short domain, which may be construed as being done for vanity reason. I learned that I became less patient and worry prone when I had been stealing time supposedly spent on my thesis. At the same time, it made me realize that there are many things that require patience. For example, everytime we buy a new domain, nameservers take time to propagate across the web. When things do not work properly, it is not always due to your technical shortcomings. It's worth the wait while assuming responsibilities of the other high priority task, because if we have reviewed everything from our end, the rest will usually take care of themselves. It will help us allocate our mental resources better if we know when to avoid unnecessary worries. This reminds me of how I used to panic when I need the internet during its down time. Attempting to fix it didn't overcome the problem because there's nothing wrong with both the modem and phone line. How can we solve the problem when we have no control over the entire resources? This brings a flashback of my time working at the support desk six years ago.
