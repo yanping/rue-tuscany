@@ -35,11 +35,11 @@ There are many who are not concerned about their privacy. But there are also tho
 </div>
 
 +-- {.section}
-Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom. 
-~ MARCEL PROUST ~
+`Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.` -- MARCEL PROUST
 =--
 
 +-- {.section}
-The truth is that our finest moments are most likely to occur when we are feeling deeply uncomfortable, unhappy, or unfulfilled. For it is only in such moments, propelled by our discomfort, that we are likely to step out of our ruts and start searching for different ways or truer answers. ~ M. SCOTT PECK ~
+`The truth is that our finest moments are most likely to occur when we are feeling deeply uncomfortable, unhappy, or unfulfilled. For it is only in such moments, propelled by our discomfort, that we are likely to step out of our ruts and start searching for different ways or truer answers.` 
+-- M. SCOTT PECK
 =--
 
