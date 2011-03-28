@@ -10,11 +10,6 @@ categories:
 
 My heart goes out to the people of Japan dealing with the aftermath of earthquake and tsunami. May all the life lost can peacefully continue their journey to the next stage. I admire those working at the nuclear plants, and I wish them well. I believe the people of Japan will come out of this with a lot of strength.
 
-<div class="image_and_caption">
-  <p><img src="/images/japan.jpg" alt="pray" title="Pray for Japan"/></p>
-  <b>Image credit © <a href="http://www.flickr.com/photos/53112914@N06/" target="_blank">cup of joy</a></b>
-</div>
-
 For the sake of learning, I have been thinking that we should be able to relate the disaster taking place on March 11, 2011 at 14.46 pm to its corresponding Bazi, ZWDS chart, and Yijing hexagram.
 
 ![alt bazi](/images/sendai-bazi.png "Event Bazi") 
