@@ -19,7 +19,9 @@ While I'm progressing in some aspects, I have to admit my life is not as product
 
 On the positive note, I have this new appreciation of being related to others. I learned the hard way the need to cherish love and true friendships, for we never know what we have until it is taken away from us. It will take some time to rebuild my connections again. And I realise it is not going to be easy, as I still find myself thinking twice as much before I act or speak. First, I need to let go of the fear or paranoia of not being liked by others at the very beginning of a friendship. I feel I have been very unfair to those whom I met briefly at graduate school. They are nice people too.
 
-![alt contentment](/images/contentment.png "Being Content") 
+<div class="image_and_caption">
+  <p><img src="/images/contentment.png" alt="contentment" title="Being Content"/></p>
+</div>
 
 Before deleting my Facebook account, I spent a lot of time liking other people's posts, looking through their pictures and comments. I did that because I really found their stuff nice and interesting. At the same time, I also realise it is very important for everyone of us to receive any kind of appreciation or praises once in a while. There is nothing wrong if we can make someone's day better. I really do not mind doing that even though my own stuff on FB do not usually receive similar kind of interests. However, the more I do that, I will then ask myself why I have nothing better to do, or why there is such a serious lack of love and passion in my life. This has been unexpected. How easy this is turning against myself soon, and I did that a lot everyday. I think I can be very unreasonable and lacking of self control sometimes. As my number of friends are growing to more than 250, I also find the news streams are getting way too much noise. 
 
@@ -27,9 +29,10 @@ I have 13 more days to go before my account is completely deleted by Facebook. I
 
 There are many who are not concerned about their privacy. But there are also those who care, and decide to just share information that is not private. They have thoroughly gone through their privacy settings. I was doing the same just before this. But I dislike Facebook's latest policy after constantly finding myself readjust the privacy settings. I also need to get away for one particular reason I stated previously. Take for example, today I haven't used it at all, and it's a good thing I haven't missed everything going on there. Even better, if tomorrow and the days after, I will no longer think about signing in. But I still think about friends who suddenly couldn't contact me. Still, I believe the majority will not notice or care much about it. These people already have about 500 to 2000 friends. 
 
-![alt happiness](/images/happy.jpg "I just want to be happy") 
-
-Image credit: [9GAG](http://ray.9gag.com/). The following quotes are my favorites from [Master Goh's blog](http://destinyxplorer.blogspot.com/).
+<div class="image_and_caption">
+  <p><img src="/images/happy.jpg" alt="happiness" title="I just want to be happy"/></p>
+  <b>Image credit © <a href="http://ray.9gag.com/" target="_blank">9GAG</a></b><br /><br />
+</div>
 
 +-- {.section}
 Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom. 
