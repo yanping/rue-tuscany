@@ -4,13 +4,27 @@
  <title>Train of Thoughts to Tuscany</title>
  <link href="http://www.rue-tuscany.com/atom.xml" rel="self"/>
  <link href="http://www.rue-tuscany.com"/>
- <updated>2011-03-28T19:40:33-04:00</updated>
+ <updated>2011-04-07T04:39:44-04:00</updated>
  <id>http://www.rue-tuscany.com/</id>
  <author>
    <name>Jennifer Lee</name>
    <email>leecarrot@gmail.com</email>
  </author>
  
+ 
+ <entry>
+   <title>Gedit as All Purpose Text Editor and IDE</title>
+   <link href="http://www.rue-tuscany.com/productivity/gedit.html"/>
+   <updated>2011-04-07T00:00:00-04:00</updated>
+   <id>id:/productivity/gedit</id>
+   <content type="html">&lt;p&gt;I had been checking out on Emacs. I heard a lot of good things about both Emacs and Vim. I wish I was a quick learner. Due to the time constrain and learning curve, I decided to continue using Gedit for the time being. It doesn&amp;#8217;t make a tremendeous difference whether I use Gedit or other editors, as long as I manage to get things done. I will definitely try to pick up Emacs again in the near future.&lt;/p&gt;
+
+&lt;p&gt;Gedit is quite a decent text editor and IDE in my opinion. I recently reinstalled Latex plugin after upgrading to Ubuntu 10.10. I have also activated a number of plugins such as the Word Completion and Align for columns. I am also using it as a Python IDE. Bracket completion, Class Browser, Embedded Terminal, Python Code Completion, Python Indentation and Better Python Console are among the number of plugins added for a seamless coding experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src='/images/gedit.png' alt='alt gedit' /&gt;&lt;/p&gt;
+
+&lt;p&gt;I wrote a simple Python script to make sure plugins were working properly for the first time. At a later time, who knows I needed a random number generator to decide on the mobile carrier since I don&amp;#8217;t know which plans are suitable for the Nexus S I&amp;#8217;m getting next week :-).&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>The Tsunami and Earthquake</title>

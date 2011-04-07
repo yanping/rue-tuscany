@@ -12,6 +12,7 @@ section : Archives
     <a href="/privacy.html">privacy ({{ site.categories.privacy | size }})</a>
     <a href="/facts.html">facts ({{ site.categories.facts | size }})</a>
     <a href="/astrology.html">astrology ({{ site.categories.astrology | size }})</a>
+    <a href="/productivity.html">productivity ({{ site.categories.productivity | size }})</a>
     <!--a href="/books.html">books ({{ site.categories.books | size }})</a-->
 </span>
 </div>
