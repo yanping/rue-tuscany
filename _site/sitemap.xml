@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="/files/css/atom.css" type="text/css" ?>
-<!-- Sat Apr 09 19:44:58 -0400 2011 -->
+<!-- Sat Apr 16 20:31:09 -0400 2011 -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>Liquid error: private method `gsub' called for nil:NilClass</loc>
-        <lastmod>2011-04-09T19:44:58-04:00</lastmod>
+        <lastmod>2011-04-16T20:31:09-04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>Liquid error: private method `gsub' called for nil:NilClass/archives/</loc>
-        <lastmod>2011-04-09T19:44:58-04:00</lastmod>
+        <lastmod>2011-04-16T20:31:09-04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
