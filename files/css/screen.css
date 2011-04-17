@@ -21,7 +21,8 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,t
 /* @end */
 
 body {
-	font: 0.8em 'Lucida Grande', Gill Sans MT, sans-serif;
+	/*font: 0.8em 'Lucida Grande', Gill Sans MT, sans-serif;*/
+ font: normal 15pt/1.8em "Hoefler Text", Constantia, Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
         background-image: url(/images/bgtile.png); 
         color: #333333;
 }
