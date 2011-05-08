@@ -23,7 +23,7 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,t
 body {
 	/*font: 0.8em 'Lucida Grande', Gill Sans MT, sans-serif;
           font: normal 15pt/1.8em "Hoefler Text", Constantia, Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;*/
-	font-family:Ubuntu, Helvetica, sans-serif;
+	font-family: Georgia, Verdana, sans-serif;
         background-image: url(/images/vanillapod.jpg); 
         color: #333333;
 }
@@ -86,7 +86,7 @@ sup { line-height: 1ex; }
 }
 
 #page .image_and_caption {
-  margin-left: 9em; 
+  margin-left: 4em; 
   margin-bottom: 1em;
 }
 
