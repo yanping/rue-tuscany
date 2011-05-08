@@ -15,7 +15,7 @@ categories:
   <p><img src="/images/lavender-bear.jpg" alt="mother's day" title="Happy Mother's Day"/></p>
 </div>
 
-Spring is too short to miss out. We experience a slightly late and cold Spring this year with a lot of precipitation. Today and last Thursday, I managed to pick up my camera again. I am very happy to have captured those little things in our backyard. The annual Tulip Festival has started. I'm not sure if I will be able to go and see the flowers this year. I have been trying to set a deadline as late as the end of June to submit my thesis. At the same, I need to ask myself how realistic this goal is.
+Spring is too short to miss out. We experience a slightly late and cold Spring this year with a lot of precipitation. Today and last Thursday, I managed to pick up my camera again. I am very happy to have captured those little things in our backyard. The annual Tulip Festival has started. I'm not sure if I will be able to go and see the flowers this year. I have been trying to set a deadline as late as the end of June to submit my thesis. At the same time, I need to ask myself how realistic this goal is.
 
 <div class="image_and_caption">
   <p><img src="/images/mothers-day.jpg" alt="mother's day" title="Happy Mother's Day"/></p>
