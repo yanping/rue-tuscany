@@ -24,8 +24,6 @@ More information about this site's mechanics or colophon can be found at my [fir
 A Little About Me
 =================
 
-<img class='inset right' src='/images/leecarrot.jpg' title='Jennifer' alt='Jennifer Lee' width='120px' />
-
 I am a 28 years old graduate student studying computer science at the University of Ottawa, Canada. I created this site with the intention of becoming a more productive outlet for sharing and learning. I was born and grew up in Indonesia. I am currently working towards completion of my master thesis, focusing on Privacy Preserving Data Mining and Privacy in Data Publishing.  
 
 From the outset, I have always wondered how to find balance between the things I do and the person I would love to become. I believe there is so much to learn from every encounter in this life, regardless of the duration they last. As soon as one door closes, another door opens. It may seem so much easier to embrace security by staying at the same place at times. But understanding the very essence of our individuality requires the courage to step outside one's comfort zone, because the method we know won't always work out in every situation, and we will eventually recognize our inner strength by repeatedly trying. This learning journey has always been a challenge to me.
