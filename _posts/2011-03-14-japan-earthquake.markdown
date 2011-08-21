@@ -22,8 +22,6 @@ Notice the Ren Wu at conception pillar. With water above fire and countering eac
 
 ![alt yijing](/images/hex51.png "Event Hexagram") 
 
-**Software credit: [Benjimen via FiveArts.net](http://fivearts.net)**
-
 Using the Plum Blossom numerology or Mei Hua Yi Su, the time and date of the event is represented by **Hexagram 51, Zhen**. It is an image of thunder above thunder. There are repeated shocks and tremble, which is what an earthquake is all about. It can be seen as a period of anxiousness, followed by the time to reflect and get in touch with the universe and cosmic forces. The changing line at line 6 brings us to relating Hexagram 21: Fire above thunder. When the law of nature is defied, there's payback to enforce the law.
 > The shock is twining, twining, looking around in terror, terror. To set things right: pitfall. The shock does not reach oneself; it reaches one's neighbor, no fault. A marriage brings talk.
 

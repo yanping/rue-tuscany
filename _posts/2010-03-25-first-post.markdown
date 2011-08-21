@@ -15,6 +15,4 @@ This command: jekyll --server --auto --pygments, is really handy to compile ever
 
 Despite the limited time to really understand and take away lessons from Jekyll and Github, I was very excited spending time with them. It is like a small project that I can keep working on even though I encountered some difficulty at first. I wish I had the same enthusiasm for things that I'm supposed to put my energy into. More to come soon :-).
 
-*February 28, 2011: [Site updated](/website/starting-over.html)*.
-
 ![alt hope](/images/cup.png "Different Angle") 
